@@ -10,9 +10,7 @@ This project contains solution code for Tapper app on Android Play App Store.
 
 Created in Android Studio.
 
-Main code located in [MainActivity.tk](Tapper/app/src/main/java/com/ianearnest/tapper/MainActivity.kt) "Tapper/app/src/main/java/com/ianearnest/tapper/MainActivity.kt"
-
-Full Project - Readme [README](Tapper/README.md) "Tapper/README.md"
+Main code located in [MainActivity.tk](app/src/main/java/com/ianearnest/tapper/MainActivity.kt) "Tapper/app/src/main/java/com/ianearnest/tapper/MainActivity.kt"
 
 
 To-do list
