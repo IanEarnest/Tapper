@@ -4,7 +4,7 @@
 [Link to original Privacy Policy(docracy)](https://www.docracy.com/6016/mobile-privacy-policy)
 
 # PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
-This privacy policy governs your use of the software application Tapper (“Application”) for mobile devices that was created by IanEarnest. The Application is a puzzle game with the idea of using planets as marbles.
+This privacy policy governs your use of the software application Tapper (“Application”) for mobile devices that was created by IanEarnest. The Application is a clicker game.
  
 ## What information does the Application obtain and how is it used?
 ### User Provided Information 
